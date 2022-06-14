@@ -1,0 +1,528 @@
+
+============ RESULTS ================
+Message size:       1
+Message count:      1
+Total duration:     0.198	ms
+Average duration:   112.128	us
+Minimum duration:   112.128	us
+Maximum duration:   112.128	us
+Standard deviation: 0.000	us
+Message rate:       5046	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1
+Message count:      10
+Total duration:     1.147	ms
+Average duration:   114.278	us
+Minimum duration:   102.144	us
+Maximum duration:   129.792	us
+Standard deviation: 7.397	us
+Message rate:       8715	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1
+Message count:      100
+Total duration:     13.826	ms
+Average duration:   135.621	us
+Minimum duration:   93.952	us
+Maximum duration:   323.328	us
+Standard deviation: 32.772	us
+Message rate:       7232	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1
+Message count:      1000
+Total duration:     51.756	ms
+Average duration:   51.536	us
+Minimum duration:   21.760	us
+Maximum duration:   162.048	us
+Standard deviation: 22.097	us
+Message rate:       19321	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       10
+Message count:      1
+Total duration:     0.185	ms
+Average duration:   118.784	us
+Minimum duration:   118.784	us
+Maximum duration:   118.784	us
+Standard deviation: 0.000	us
+Message rate:       5417	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       10
+Message count:      10
+Total duration:     1.091	ms
+Average duration:   108.774	us
+Minimum duration:   103.936	us
+Maximum duration:   119.040	us
+Standard deviation: 5.289	us
+Message rate:       9163	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       10
+Message count:      100
+Total duration:     5.533	ms
+Average duration:   54.618	us
+Minimum duration:   37.376	us
+Maximum duration:   140.032	us
+Standard deviation: 25.908	us
+Message rate:       18071	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       10
+Message count:      1000
+Total duration:     45.550	ms
+Average duration:   45.499	us
+Minimum duration:   27.136	us
+Maximum duration:   121.856	us
+Standard deviation: 16.696	us
+Message rate:       21954	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       100
+Message count:      1
+Total duration:     0.548	ms
+Average duration:   248.576	us
+Minimum duration:   248.576	us
+Maximum duration:   248.576	us
+Standard deviation: 0.000	us
+Message rate:       1824	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       100
+Message count:      10
+Total duration:     3.894	ms
+Average duration:   360.883	us
+Minimum duration:   239.104	us
+Maximum duration:   546.048	us
+Standard deviation: 82.751	us
+Message rate:       2568	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       100
+Message count:      100
+Total duration:     5.692	ms
+Average duration:   55.713	us
+Minimum duration:   32.256	us
+Maximum duration:   120.320	us
+Standard deviation: 23.395	us
+Message rate:       17568	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       100
+Message count:      1000
+Total duration:     68.383	ms
+Average duration:   67.958	us
+Minimum duration:   12.800	us
+Maximum duration:   624.640	us
+Standard deviation: 71.878	us
+Message rate:       14623	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1000
+Message count:      1
+Total duration:     0.469	ms
+Average duration:   224.768	us
+Minimum duration:   224.768	us
+Maximum duration:   224.768	us
+Standard deviation: 0.000	us
+Message rate:       2132	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1000
+Message count:      10
+Total duration:     0.773	ms
+Average duration:   63.949	us
+Minimum duration:   37.888	us
+Maximum duration:   110.592	us
+Standard deviation: 26.545	us
+Message rate:       12934	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1000
+Message count:      100
+Total duration:     6.975	ms
+Average duration:   68.288	us
+Minimum duration:   24.320	us
+Maximum duration:   232.960	us
+Standard deviation: 54.829	us
+Message rate:       14336	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1000
+Message count:      1000
+Total duration:     51.463	ms
+Average duration:   51.405	us
+Minimum duration:   23.040	us
+Maximum duration:   230.912	us
+Standard deviation: 23.908	us
+Message rate:       19431	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1
+Message count:      1
+Total duration:     0.392	ms
+Average duration:   277.504	us
+Minimum duration:   277.504	us
+Maximum duration:   277.504	us
+Standard deviation: 0.000	us
+Message rate:       2548	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1
+Message count:      10
+Total duration:     1.667	ms
+Average duration:   154.266	us
+Minimum duration:   127.488	us
+Maximum duration:   182.528	us
+Standard deviation: 13.084	us
+Message rate:       5997	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1
+Message count:      100
+Total duration:     24.172	ms
+Average duration:   238.246	us
+Minimum duration:   56.576	us
+Maximum duration:   648.704	us
+Standard deviation: 111.270	us
+Message rate:       4137	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1
+Message count:      1000
+Total duration:     46.393	ms
+Average duration:   46.250	us
+Minimum duration:   27.392	us
+Maximum duration:   171.264	us
+Standard deviation: 17.798	us
+Message rate:       21554	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       10
+Message count:      1
+Total duration:     0.644	ms
+Average duration:   275.200	us
+Minimum duration:   275.200	us
+Maximum duration:   275.200	us
+Standard deviation: 0.000	us
+Message rate:       1551	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       10
+Message count:      10
+Total duration:     2.134	ms
+Average duration:   198.195	us
+Minimum duration:   172.800	us
+Maximum duration:   321.536	us
+Standard deviation: 42.066	us
+Message rate:       4686	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       10
+Message count:      100
+Total duration:     9.891	ms
+Average duration:   96.911	us
+Minimum duration:   36.608	us
+Maximum duration:   216.832	us
+Standard deviation: 48.419	us
+Message rate:       10109	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       10
+Message count:      1000
+Total duration:     50.646	ms
+Average duration:   50.367	us
+Minimum duration:   22.016	us
+Maximum duration:   245.760	us
+Standard deviation: 30.803	us
+Message rate:       19745	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       100
+Message count:      1
+Total duration:     0.320	ms
+Average duration:   184.832	us
+Minimum duration:   184.832	us
+Maximum duration:   184.832	us
+Standard deviation: 0.000	us
+Message rate:       3124	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       100
+Message count:      10
+Total duration:     1.337	ms
+Average duration:   121.011	us
+Minimum duration:   93.696	us
+Maximum duration:   135.680	us
+Standard deviation: 10.233	us
+Message rate:       7477	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       100
+Message count:      100
+Total duration:     8.669	ms
+Average duration:   84.050	us
+Minimum duration:   36.864	us
+Maximum duration:   252.672	us
+Standard deviation: 66.931	us
+Message rate:       11535	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       100
+Message count:      1000
+Total duration:     51.278	ms
+Average duration:   50.981	us
+Minimum duration:   7.168	us
+Maximum duration:   381.184	us
+Standard deviation: 32.314	us
+Message rate:       19501	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1000
+Message count:      1
+Total duration:     0.123	ms
+Average duration:   119.552	us
+Minimum duration:   119.552	us
+Maximum duration:   119.552	us
+Standard deviation: 0.000	us
+Message rate:       8155	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1000
+Message count:      10
+Total duration:     1.254	ms
+Average duration:   118.170	us
+Minimum duration:   112.128	us
+Maximum duration:   134.656	us
+Standard deviation: 6.485	us
+Message rate:       7975	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1000
+Message count:      100
+Total duration:     7.825	ms
+Average duration:   76.508	us
+Minimum duration:   40.448	us
+Maximum duration:   185.344	us
+Standard deviation: 35.860	us
+Message rate:       12780	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1000
+Message count:      1000
+Total duration:     66.094	ms
+Average duration:   65.893	us
+Minimum duration:   26.624	us
+Maximum duration:   3433.216	us
+Standard deviation: 129.156	us
+Message rate:       15130	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1
+Message count:      1
+Total duration:     0.382	ms
+Average duration:   173.568	us
+Minimum duration:   173.568	us
+Maximum duration:   173.568	us
+Standard deviation: 0.000	us
+Message rate:       2618	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1
+Message count:      10
+Total duration:     1.051	ms
+Average duration:   99.635	us
+Minimum duration:   58.368	us
+Maximum duration:   120.064	us
+Standard deviation: 19.308	us
+Message rate:       9515	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1
+Message count:      100
+Total duration:     8.495	ms
+Average duration:   83.620	us
+Minimum duration:   36.864	us
+Maximum duration:   274.688	us
+Standard deviation: 55.856	us
+Message rate:       11772	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1
+Message count:      1000
+Total duration:     48.922	ms
+Average duration:   48.764	us
+Minimum duration:   12.288	us
+Maximum duration:   117.248	us
+Standard deviation: 19.078	us
+Message rate:       20440	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       10
+Message count:      1
+Total duration:     0.457	ms
+Average duration:   215.296	us
+Minimum duration:   215.296	us
+Maximum duration:   215.296	us
+Standard deviation: 0.000	us
+Message rate:       2185	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       10
+Message count:      10
+Total duration:     1.986	ms
+Average duration:   181.478	us
+Minimum duration:   142.336	us
+Maximum duration:   222.720	us
+Standard deviation: 22.339	us
+Message rate:       5035	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       10
+Message count:      100
+Total duration:     7.990	ms
+Average duration:   77.870	us
+Minimum duration:   23.552	us
+Maximum duration:   162.560	us
+Standard deviation: 42.059	us
+Message rate:       12516	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       10
+Message count:      1000
+Total duration:     52.671	ms
+Average duration:   52.218	us
+Minimum duration:   5.888	us
+Maximum duration:   238.080	us
+Standard deviation: 28.737	us
+Message rate:       18985	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       100
+Message count:      1
+Total duration:     0.711	ms
+Average duration:   430.848	us
+Minimum duration:   430.848	us
+Maximum duration:   430.848	us
+Standard deviation: 0.000	us
+Message rate:       1407	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       100
+Message count:      10
+Total duration:     1.095	ms
+Average duration:   106.342	us
+Minimum duration:   94.720	us
+Maximum duration:   118.272	us
+Standard deviation: 6.008	us
+Message rate:       9133	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       100
+Message count:      100
+Total duration:     7.623	ms
+Average duration:   75.092	us
+Minimum duration:   37.632	us
+Maximum duration:   186.368	us
+Standard deviation: 46.052	us
+Message rate:       13118	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       100
+Message count:      1000
+Total duration:     62.401	ms
+Average duration:   62.074	us
+Minimum duration:   23.040	us
+Maximum duration:   474.112	us
+Standard deviation: 33.381	us
+Message rate:       16025	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1000
+Message count:      1
+Total duration:     0.196	ms
+Average duration:   129.536	us
+Minimum duration:   129.536	us
+Maximum duration:   129.536	us
+Standard deviation: 0.000	us
+Message rate:       5112	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1000
+Message count:      10
+Total duration:     1.109	ms
+Average duration:   98.048	us
+Minimum duration:   78.080	us
+Maximum duration:   123.648	us
+Standard deviation: 14.064	us
+Message rate:       9017	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1000
+Message count:      100
+Total duration:     4.539	ms
+Average duration:   44.948	us
+Minimum duration:   32.000	us
+Maximum duration:   113.664	us
+Standard deviation: 17.815	us
+Message rate:       22031	msg/s
+=====================================
+
+============ RESULTS ================
+Message size:       1000
+Message count:      1000
+Total duration:     55.166	ms
+Average duration:   54.964	us
+Minimum duration:   23.808	us
+Maximum duration:   238.592	us
+Standard deviation: 32.768	us
+Message rate:       18127	msg/s
+=====================================

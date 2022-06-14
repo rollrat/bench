@@ -1,0 +1,11 @@
+
+============ RESULTS ================
+Message size:       1
+Message count:      1
+Total duration:     0.084	ms
+Average duration:   83.456	us
+Minimum duration:   83.456	us
+Maximum duration:   83.456	us
+Standard deviation: 0.000	us
+Message rate:       11945	msg/s
+=====================================
